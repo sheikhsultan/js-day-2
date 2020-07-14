@@ -18,5 +18,5 @@ for(var i = 0; i < nums.length; i++){
 var friends = ['redu', 'fuckK', 'anik', 'abdullah', 'arif', 'mithu', 'mmishad'];
 for(var i = 0; i < friends.length; i++){
     var element = friends[i];
-    console.log( element);
+    console.log(element);
 }
